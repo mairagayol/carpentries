@@ -1,5 +1,6 @@
-# carpentries
-flujo de trabajo
+# Carpentries
+## Flujo de trabajo
+
 1. git pull
 2. git add
 3. got commit 
